@@ -1,6 +1,6 @@
 # Overview
 
-Login system with user permission using Spring Boot, Spring Security, Thymeleaf and persistence.
+Login system with user permission using SpringBoot, Spring Security, Thymeleaf and persistence.
 
 Note: after running the application, execute the following SQL commands:
 > 
